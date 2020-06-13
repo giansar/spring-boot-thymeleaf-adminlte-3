@@ -26,6 +26,9 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
+licenseheader.txt
+nbactions.xml
+nb-configuration.xml
 
 ### VS Code ###
 .vscode/

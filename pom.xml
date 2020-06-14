@@ -10,7 +10,7 @@
     </parent>
     <groupId>id.giansar.demo</groupId>
     <artifactId>spring-boot-thymeleaf-adminlte-3</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1</version>
     <name>spring-boot-thymeleaf-adminlte-3</name>
     <description>Spring Boot Demo with Thymeleaf and AdminLTE 3</description>
 

@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  */
 @Controller
 public class ApplicationWebController {
-    
+
     private static final Logger LOG = LoggerFactory.getLogger(ApplicationWebController.class);
 
     @RequestMapping("/")
